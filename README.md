@@ -1,4 +1,4 @@
-### Hi 👋, I'm Vikram Amin
+                                                                   Hi 👋, I'm Vikram Amin
 
 
 - 🔭 I’m an aspiring full-stack web developer.
