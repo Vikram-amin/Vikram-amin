@@ -1,4 +1,4 @@
-                                                                   Hi 👋, I'm Vikram Amin
+                                                             <h1>  Hi 👋, I'm Vikram Amin  </h1>
 
 
 - 🔭 I’m an aspiring full-stack web developer.
