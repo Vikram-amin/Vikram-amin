@@ -1,6 +1,4 @@
-                                                             <h1>  Hi 👋, I'm Vikram Amin  </h1>
-
-
+<h1 align="center">Hi 👋, I'm Vikram Amin</h1>
 - 🔭 I’m an aspiring full-stack web developer.
 - 🌱 I’m currently learning MERN Stack.
 <!-- - 👯 I’m looking to collaborate on ... -->
