@@ -10,3 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-amin&layout=compact&theme=radical" alt="Vikram-amin" /></p>
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Vikram-amin&show_icons=true&theme=radical" alt="Vikram-amin" /></p>
