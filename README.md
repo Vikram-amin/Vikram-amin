@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikram Amin</h1>
 
 <br />
-<img src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" align="left" width="300" height="300" alt="ful1e5"/>
+<img src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" align="left" width="300" height="300" style="border-radius:50%" alt="vikram"/>
 
 # <h2>About Me 👋 </h2>
 
@@ -28,7 +28,7 @@
 <!-- <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-amin&layout=compact&theme=radical" alt="Vikram-amin" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Vikram-amin&show_icons=true&theme=radical" alt="Vikram-amin" /></p> -->
 
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p>
+## <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools :</p>
 
 <p align="left"> 
 <!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
@@ -49,7 +49,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vikram's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vikram-amin&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-## 📊 My Github Stats
+
+
+## 📊 My Github Stats :
 
   <br/>
     <a href="https://github-readme-stats.vercel.app/api?username=Vikram-amin"><img alt="Vikram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vikram-amin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -65,7 +67,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Connect with me :
 
 <p align="left">
 
