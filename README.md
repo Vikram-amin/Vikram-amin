@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikram Amin</h1>
 
 <br />
-<img src="https://github.com/ful1e5/ful1e5/blob/main/assets/lines.svg" align="left" width="300" alt="ful1e5"/>
+<img src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" align="left" width="300" height="300" alt="ful1e5"/>
 
 # <h2>About Me 👋 </h2>
 
@@ -11,11 +11,10 @@
 
 👨‍💻 Connect with me **[@vikram-amin](https://www.linkedin.com/in/vikram-amin-52b55815a/)**
 
-
 <br />
 <br />
 
-
+<!-- <img src="https://github.com/ful1e5/ful1e5/blob/main/assets/lines.svg" align="left" width="300" alt="ful1e5"/> -->
 <!-- ## <p style="display : flex; align-items: center; justify-content: center;"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p>
 - 🔭 I’m an aspiring full-stack web developer.
 - 🌱 I’m currently learning MERN Stack.
@@ -26,9 +25,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <br/>
-
 <!-- <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-amin&layout=compact&theme=radical" alt="Vikram-amin" /></p>
-
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Vikram-amin&show_icons=true&theme=radical" alt="Vikram-amin" /></p> -->
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p>
@@ -67,6 +64,7 @@
 
 <br/>
 <br/>
+
 ## Connect with me:
 
 <p align="left">
