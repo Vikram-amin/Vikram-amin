@@ -1,7 +1,22 @@
 <h1 align="center">Hi 👋, I'm Vikram Amin</h1>
 
+<br />
+<img src="https://github.com/ful1e5/ful1e5/blob/main/assets/lines.svg" align="left" width="300" alt="ful1e5"/>
 
-## <p style="display : flex; align-items: center; justify-content: center;"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p>
+# <h2>About Me 👋 </h2>
+
+🔭 I’m an aspiring full-stack web developer.
+
+🌱 I’m currently learning MERN Stack.
+
+👨‍💻 Connect with me **[@vikram-amin](linkedin.com/in/vikram-amin-52b55815a)**
+
+
+<br />
+<br />
+
+
+<!-- ## <p style="display : flex; align-items: center; justify-content: center;"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p>
 - 🔭 I’m an aspiring full-stack web developer.
 - 🌱 I’m currently learning MERN Stack.
 <!-- - 👯 I’m looking to collaborate on ... -->
@@ -10,7 +25,7 @@
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-- 👨‍💻 Connect with me **[@vikram-amin](linkedin.com/in/vikram-amin-52b55815a)**
+<br/>
 
 <!-- <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-amin&layout=compact&theme=radical" alt="Vikram-amin" /></p>
 
