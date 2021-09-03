@@ -71,7 +71,10 @@
 
 <a href = "https://twitter.com/@vikram56201675"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.linkedin.com/in/vikram-amin-52b55815a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-
-
 </p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=vikram-amin">
+</a>
+<a href="https://github.com/vikram-amin?tab=followers"><img src="https://img.shields.io/github/followers/vikram-amin?label=Followers&style=social" alt="GitHub Badge"></a>
