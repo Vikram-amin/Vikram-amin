@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikram Amin</h1>
 
 <br />
-<img src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" align="left" width="300" height="300" style="border-radius:50%" alt="vikram"/>
+<img src="code-guy 1.png" align="left" width="300" height="300" style="border-radius:50%" alt="vikram"/>
 
 # <h2>About Me 👋 </h2>
 
@@ -15,6 +15,7 @@
 <br />
 
 <!-- <img src="https://github.com/ful1e5/ful1e5/blob/main/assets/lines.svg" align="left" width="300" alt="ful1e5"/> -->
+<!-- <img src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" align="left" width="300" height="300" style="border-radius:50%" alt="vikram"/> -->
 <!-- ## <p style="display : flex; align-items: center; justify-content: center;"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p>
 - 🔭 I’m an aspiring full-stack web developer.
 - 🌱 I’m currently learning MERN Stack.
